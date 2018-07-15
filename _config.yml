@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 
 title: [lamente]
 description: [.what.]
-show_downloads: [false]
+show_downloads: [true]
