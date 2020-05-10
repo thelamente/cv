@@ -3,3 +3,6 @@ theme: jekyll-theme-hacker
 title: [lamente]
 description: [.what.]
 
+navbar-links:
+  About Me: "aboutme"
+  Resources: mmm
